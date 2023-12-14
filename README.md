@@ -12,4 +12,16 @@ This project was to refactor the code of the Horiseon website. Refactoring the c
 * CSS stylesheet was reorganized to separate elements and classes
 * A Descriptive Title was added
 
+### Links
+
+
+
+### Usage
+Once deployed the application will be viewed as followed
+
+```md
+![screenshot](assets/images/Horiseon Screenshot.jpg)
+```
+
+
   
