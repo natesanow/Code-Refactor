@@ -14,9 +14,12 @@ This project was to refactor the code of the Horiseon website. Refactoring the c
 
 ### Links
 
+https://natesanow.github.io/Horiseon-Code-Refactor/
 
+https://github.com/natesanow/Horiseon-Code-Refactor
 
 ### Usage
+
 Once deployed the application will be viewed as followed
 
 ![screenshot](assets/images/Horiseon%20Screenshot.jpg)
