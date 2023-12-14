@@ -19,9 +19,6 @@ This project was to refactor the code of the Horiseon website. Refactoring the c
 ### Usage
 Once deployed the application will be viewed as followed
 
-```md
-![screenshot](assets/images/Horiseon Screenshot.jpg)
-```
-
+![screenshot](assets/images/Horiseon%20Screenshot.jpg)
 
   
